@@ -20,6 +20,7 @@ public class conexion {
 		catch (Exception e) {
 			System.out.println("Error: " + e.getMessage());
 		}
+		System.out.println();
 	}
 
 }

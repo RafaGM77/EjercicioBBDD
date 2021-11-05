@@ -75,5 +75,6 @@ public class resultSetStatement {
 	    		}
 	    	}
 	    }
+	    System.out.println();
 	}
 }

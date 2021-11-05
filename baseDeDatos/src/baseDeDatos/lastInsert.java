@@ -75,6 +75,7 @@ public class lastInsert {
 	    		}
 	    	}
 	      }
+	    System.out.println();
 	}
 
 }

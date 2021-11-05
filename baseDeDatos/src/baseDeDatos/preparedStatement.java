@@ -40,6 +40,7 @@ public class preparedStatement {
 	    catch (Exception e) {
 	      e.printStackTrace(System.err);
 	    }
+	    System.out.println();
 	}
 
 }

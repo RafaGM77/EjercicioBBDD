@@ -33,6 +33,7 @@ public class conexion2 {
 		catch (Exception e) {
 			e.printStackTrace();
 		}
+		System.out.println();
 	}
 
 }

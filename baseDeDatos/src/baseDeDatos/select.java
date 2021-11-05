@@ -45,6 +45,7 @@ public class select {
 	    catch (Exception e) {
 	      e.printStackTrace(System.err);
 	    }
+	    System.out.println();
 	}
 
 }
